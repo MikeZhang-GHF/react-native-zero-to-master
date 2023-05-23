@@ -5,9 +5,17 @@
 ```bash
 npm install -g expo-cli
 ``` 
+- Use Expo CLI to create a React Native App method I
 ```bash
 expo init myapp
 ``` 
+- Use Expo CLI to create a React Native App method II
+```bash
+npx create-expo-app myapp
+
+cd myapp
+npx expo start
+```
 
 #### Core Components of React Native
 > View, Text, Image, Button, TextInput, ScrollView, StyleSheet, FlatList, SectionList, ActivityIndicator, Alert, Modal, TouchableHighlight, TouchableOpacity, TouchableNativeFeedback, TouchableWithoutFeedback, Switch, Picker, Slider, StatusBar, WebView
